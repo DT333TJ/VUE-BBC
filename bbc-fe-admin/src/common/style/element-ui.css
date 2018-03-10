@@ -1,0 +1,21 @@
+/*
+*@Author: wzy
+*@Date: 2017-10-10
+*@Desc: 重写element-ui的一些样式
+*/
+
+.el-dialog{
+  top: 25% !important;
+}
+
+.el-message{
+  top: 100px !important;
+}
+
+.el-dialog--small{
+  width: 650px !important;
+}
+
+.el-dialog--tiny{
+  width: 20% !important;
+}

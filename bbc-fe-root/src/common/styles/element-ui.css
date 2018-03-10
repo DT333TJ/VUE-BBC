@@ -1,0 +1,16 @@
+
+.el-dialog{
+  top: 20% !important;
+}
+
+.el-message{
+  top: 100px !important;
+}
+
+.el-dialog--small{
+  width: 650px !important;
+}
+
+.el-date-editor.el-input{
+  width: 150px !important;
+}
